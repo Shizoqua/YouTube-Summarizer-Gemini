@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouTube Transcript to Detailed Notes</title>
+    <link rel="stylesheet" href="{{ url_for('static', path='/css/styles.css') }}">
+</head>
+<body>
+    <h1>▶️ Multi Language YouTube Summary App 📚</h1>
+
+    <div class="container">
+        <div class="main-content">
+            <input type="text" id="youtube_url" placeholder="Enter YouTube Video Link">
+            <input type="text" id="language" placeholder="Enter Language Code (e.g., 'en' for English)" value="en">
+            <button onclick="getNotes()">Get Detailed Notes</button>
+
+            <div id="thumbnail"></div>
+            <div class="loading" id="loading">
+                Processing... Please wait...
+            </div>
+            <div id="result"></div>
+        </div>
+
+        <div class="sidebar">
+            <h2>Language Codes Reference</h2>
+            <div id="language-codes"></div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', path='/js/main.js') }}"></script>
+</body>
+</html>
