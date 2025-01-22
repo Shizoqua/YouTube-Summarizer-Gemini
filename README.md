@@ -30,7 +30,8 @@ Follow these steps to get the app running:
 
 1. 🔄 **Download the project**:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Shizoqua/YouTube-Summarizer-Gemini
+
    cd youtube_summarizer
    ```
 
@@ -91,7 +92,7 @@ This project is open-source and follows the MIT License. Check the LICENSE file 
 
 If you have any questions or ideas, feel free to reach out:
 
-- **Name**: [Your Name]
+- **Name**: [Lanre Shittu]
 - **Email**: [Your Email]
-- **GitHub**: [Your GitHub Profile]
+- **GitHub**: [[Your GitHub Profile](https://github.com/Shizoqua)]
 
