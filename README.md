@@ -93,6 +93,6 @@ This project is open-source and follows the MIT License. Check the LICENSE file 
 If you have any questions or ideas, feel free to reach out:
 
 - **Name**: Lanre Shittu
-- **Email**: [Your Email]
+- **Email**: hr.lanreshittu@gmail.com
 - **GitHub**: [[GitHub Profile](https://github.com/Shizoqua)]
 
