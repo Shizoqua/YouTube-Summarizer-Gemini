@@ -7,6 +7,7 @@ This project is a simple web app that lets you paste a YouTube video link and ge
 ```
 youtube_summarizer/
 ├── requirements.txt          # A list of tools and libraries needed for the project
+├── .env                      # File for storing environment variables like API keys
 ├── static/                   # Folder for design files like CSS and JavaScript
 │   ├── css/
 │   │   └── styles.css        # The file that makes the web app look nice
@@ -63,9 +64,9 @@ Follow these steps to get the app running:
 
 ## What It Uses
 
-- 🖥️ **Backend**: Python (with tools like Flask or FastAPI)
+- 🖥️ **Backend**: Python (with FastAPI)
 - 🎨 **Frontend**: HTML, CSS, and JavaScript
-- 🔗 **API**: YouTube API to get video information
+- 🔗 **API**: YouTube API to get video information and Gemini API for text summary
 
 ## Cool Features
 
