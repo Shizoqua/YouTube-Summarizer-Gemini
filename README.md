@@ -33,7 +33,6 @@ Follow these steps to get the app running:
    ```bash
    git clone https://github.com/Shizoqua/YouTube-Summarizer-Gemini
 
-   cd youtube_summarizer
    ```
 
 2. 🛠️ **Make a `.env` file**:
