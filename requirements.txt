@@ -1,4 +1,4 @@
-#python==3.10 or above
+#python==3.12 or above
 fastapi==0.109.0
 uvicorn==0.27.0
 python-dotenv==1.0.0
