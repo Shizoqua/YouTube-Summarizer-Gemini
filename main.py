@@ -43,6 +43,7 @@ Key Points:
 1. [First key point]
 2. [Second key point]
 3. [Third key point]
+4. [Fourth key point]
 
 Keep the entire summary within 250 words. Here's the text to summarize: """
 
