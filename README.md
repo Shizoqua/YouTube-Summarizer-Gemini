@@ -1,6 +1,6 @@
 # ❤️ YouTube Summarizer 🚀
 
-This project is a simple web app that lets you paste a YouTube video link and get a summary of the video's content. It uses Python and has an easy-to-use design so anyone can try it out. Please give star to my this repo for more such wonderful projects.
+This project is a simple web app that lets you paste a YouTube video link and get a summary of the video's content. It uses Python and has an easy-to-use design so anyone can try it out. Please give star to this repo for more such wonderful projects.
 
 ## 💡 What's Inside?
 
