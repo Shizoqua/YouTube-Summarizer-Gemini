@@ -1,23 +1,33 @@
 # 🛠️ Contributing to YouTube Summarizer (Gemini)
 
 Thank you for your interest in contributing!  
-This project is an open-source AI tool that summarizes YouTube videos using FastAPI, Python, Google Gemini, and the YouTube Transcript API.
+This project is an open-source AI tool that summarizes YouTube videos using **FastAPI, Python, Google Gemini, and the YouTube Transcript API**.
 
 We welcome all kinds of contributions, including:
 
 - 🚀 **New features**  
 - 🐛 **Bug fixes**  
 - 📝 **Documentation improvements**  
-- 🎨 **Frontend improvements (HTML/CSS/JS)**  
+- 🎨 **Frontend improvements** (HTML/CSS/JS)  
 - ⚙️ **Performance or model-quality enhancements**
 
 ---
 
 ## 📌 How to Contribute
 
-### **1. Fork the Repository**  
-Click **Fork** on the top-right of the repo and create your own copy.
+Follow the steps below to contribute to this project.
 
-### **2. Clone Your Fork**
+---
+
+## 1. ⭐ Fork the Repository
+
+Click **Fork** at the top-right of this repository to create your own copy.
+
+---
+
+## 2. 📥 Clone Your Fork
+
+Run this command in your terminal:
+
 ```bash
-git clone https://github.com/YOUR_USERNAME/YouTube-Summarizer-Gemini.git
+git clone https://github.com/Shizoqua/YouTube-Summarizer-Gemini.git
